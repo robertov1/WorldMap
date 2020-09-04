@@ -1,0 +1,25 @@
+body {
+    background-color:rgb(183, 241, 255);
+}
+.map {
+    width: 50%;
+}
+
+.map path {
+    fill:rgb(3, 163, 27);
+    fill-opacity: 1;
+    stroke: cornsilk;
+    stroke-width: 2px;
+    transition: fill 0.5s;
+}
+
+path:hover {
+    fill:rgb(255, 95, 0);
+    fill-opacity: 1;
+    stroke-width: 4px;
+}
+
+
+svg {
+    overflow: visible;
+}
