@@ -3,4 +3,4 @@ by Roberto Vidal
 
 SVG World Map with a Wikipedia link in each country
 
-robertov1.github.io/WorldMap
+[Link to the World Map](robertov1.github.io/WorldMap)
